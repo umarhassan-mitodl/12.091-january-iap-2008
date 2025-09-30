@@ -5,6 +5,8 @@ description: Assignment to write and present a literature survey report on an im
 file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/1932553712aecfbbbe51f72300264743_assignment1.pdf
 file_size: 32384
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

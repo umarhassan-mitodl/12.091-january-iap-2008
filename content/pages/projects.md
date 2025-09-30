@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information about the course projects, and sample
   student presentations and reports.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -5,6 +5,8 @@ description: Lecture slides on Chesapeake Bay Impact Structure, a Geophysical We
 file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/0e82e0e53855528983f08b53bf21fe35_session4.pdf
 file_size: 1365758
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

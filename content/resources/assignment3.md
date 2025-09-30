@@ -5,6 +5,8 @@ description: Assignment to review materials on the Chicxulub Impact Crater, the 
 file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/ab27bcbc1499e024b3a83a7f45c5c0e1_assignment3.pdf
 file_size: 60258
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
