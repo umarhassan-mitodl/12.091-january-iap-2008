@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information about readings for the course, including
   a list of references by lecture session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

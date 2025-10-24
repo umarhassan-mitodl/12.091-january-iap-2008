@@ -6,8 +6,6 @@ description: Lecture slides with an introduction to terrestrial impact cratering
 file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/b03ed9091150acdd1d38222e9d769b08_session1.pdf
 file_size: 3110245
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
