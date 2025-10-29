@@ -103,7 +103,7 @@ Vermeesch, P. M., and J. V. Morgan. "Chicxulub Central Crater Structure: Initial
 
 Wittmann, A., T. Kenkmann, L. Hecht, and D. Stöffler. "Reconstruction of the Chicxulub Ejecta Plume from its Deposits in Drill Core Yaxcopoil-1." _GSA Bulletin_ 119, no. 9/10 (September/October 2007): 1151-1167.
 
-More [references](http://www.unb.ca/passc/ImpactDatabase/images/chicxulub.htm) are also available on the Web site.
+More {{% resource_link "7d35019b-a4a0-4e48-9e80-4321876aec91" "references" %}} are also available on the Web site.
 
 ### Mjlonir Impact Crater References
 
@@ -159,7 +159,7 @@ Spray, J. G., S. P. Kelley, and W. U. Reimold. "Laser Probe Argon-40/Argon-39 Da
 
 Therriault, A. M., R. A. F. Grieve, and W. U. Reimold. "Original Size of the Vredefort Structure: Implications for the Geological Evolution of the Witwatersrand Basin." _Meteoritics Planet Sci_ 32 (1997): 71-77.
 
-More [references](http://www.unb.ca/passc/ImpactDatabase/images/vredefort.htm) are also available on the Web site.
+More {{% resource_link "04e33906-5deb-414b-8b2d-4b57b382653c" "references" %}} are also available on the Web site.
 
 {{< anchor "session_3_references" >}}{{< /anchor >}}Session 3 References
 ------------------------------------------------------------------------
@@ -182,7 +182,7 @@ French, B. M. _Traces of Catastrophe._ Houston, Tx: Lunar and Planetary Institut
 
 Gault D. E. "Impact Cratering." In _A Primer in Lunar Geology_. Edited by R. Greeley and P. H. Shultz. Moffett Field, CA: NASA Ames Research Center, 1974, pp. 137-175.
 
-Glass, B. J., S. Domville, and P. Lee. "Further Geophysical Studies of the Haughton Impact Structure." _Lunar and Planetary Science_ XXXVI (2005). ([PDF](https://ti.arc.nasa.gov/m/pub-archive/953h/0953%20(Glass).pdf))
+Glass, B. J., S. Domville, and P. Lee. "Further Geophysical Studies of the Haughton Impact Structure." _Lunar and Planetary Science_ XXXVI (2005). ({{% resource_link "36814b69-8d75-422b-a701-d15a941c4f3e" "PDF" %}})
 
 Grieve, R. A. F., and M. J. Cintala. "An Analysis of Differential Impact Melt-crater Scaling and Implications for the Terrestrial Impact Record." _Meteoritics_ 27 (1992): 526-538.
 
